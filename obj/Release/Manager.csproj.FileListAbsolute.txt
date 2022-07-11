@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Net_Manager\bin\Release\Database1.mdf
+C:\Users\user\Desktop\Net_Manager\bin\Release\Database1_log.ldf
+C:\Users\user\Desktop\Net_Manager\bin\Release\Manager.exe.config
+C:\Users\user\Desktop\Net_Manager\bin\Release\Manager.exe
+C:\Users\user\Desktop\Net_Manager\bin\Release\Manager.pdb
+C:\Users\user\Desktop\Net_Manager\obj\Release\Manager.Add.resources
+C:\Users\user\Desktop\Net_Manager\obj\Release\Manager.Delete.resources
+C:\Users\user\Desktop\Net_Manager\obj\Release\Manager.Generate.resources
+C:\Users\user\Desktop\Net_Manager\obj\Release\Manager.Home.resources
+C:\Users\user\Desktop\Net_Manager\obj\Release\Manager.Properties.Resources.resources
+C:\Users\user\Desktop\Net_Manager\obj\Release\Manager.Update.resources
+C:\Users\user\Desktop\Net_Manager\obj\Release\Manager.View.resources
+C:\Users\user\Desktop\Net_Manager\obj\Release\Manager.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Net_Manager\obj\Release\Manager.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net_Manager\obj\Release\Manager.exe
+C:\Users\user\Desktop\Net_Manager\obj\Release\Manager.pdb
+C:\Users\user\Desktop\Net_Manager\obj\Release\Manager.csproj.AssemblyReference.cache

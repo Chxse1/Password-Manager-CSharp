@@ -1,0 +1,2 @@
+This file is necessary for the program's "generate" function to work. Without it, it will not work.
+The program code is told to rewrite all of the files text, so there is no need to delete any of this!
